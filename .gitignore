@@ -1,0 +1,14 @@
+# Visual Studio / .NET derleme çıktıları
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userprefs
+
+# İmzalama anahtarları ve gizli ayarlar
+*.keystore
+*.jks
+*.pfx
+*.p12
+.env
